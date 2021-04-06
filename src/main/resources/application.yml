@@ -2,4 +2,4 @@ spring:
   profiles:
     active: prod
 jwt:
-  secret: mysecretkey
+  secret: xROduwBq1yPSE1BWqxEsTChJXNVyBeJPmMTujxWZ1v-Y0XBYMBjXzgJtcR5EYP5dGdpSs56OxrLhzcDsFXoB-n4b4t0J75ftOyB2jt5Ogkk5uYogMajomPmxrh0gwsxiCdxB3YyBZd0jyPJyNP2tumDx_8WMx4H4Kv8PZxCTDc0
