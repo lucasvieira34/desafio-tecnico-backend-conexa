@@ -2,7 +2,7 @@ spring:
   datasource:
     url: ${DATABASE_URL}
   profiles:
-    active: dev
+    active: prod
 
 jwt:
   secret: mysecretkey
