@@ -3,4 +3,4 @@ spring:
     active: prod
 
 jwt:
-  secret: usersecretforjwtauthenticateusersecretforjwtauthenticateusersecretforjwtauthenticateuse
+  secret: ${MY_SECRET_KEY}

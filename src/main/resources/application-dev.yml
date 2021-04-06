@@ -8,4 +8,4 @@ spring:
       ddl-auto: update
 
 jwt:
-  secret: usersecretforjwtauthenticateusersecretforjwtauthenticateusersecretforjwtauthenticateuse
+  secret: ${MY_SECRET_KEY}
